@@ -55,10 +55,10 @@
   resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@eslint/js/-/js-8.57.1.tgz#de633db3ec2ef6a3c89e2f19038063e8a122e2c2"
   integrity sha1-3mM9s+wu9qPIni8ZA4Bj6KEi4sI=
 
-"@github/copilot-language-server@^1.266.0":
-  version "1.273.0"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@github/copilot-language-server/-/copilot-language-server-1.273.0.tgz#561094fc0d832acae173c40549cd95d27a648fbc"
-  integrity sha1-VhCU/A2DKsrhc8QFSc2V0npkj7w=
+"@github/copilot-language-server@^1.302.0":
+  version "1.314.0"
+  resolved "https://registry.yarnpkg.com/@github/copilot-language-server/-/copilot-language-server-1.314.0.tgz#0c67683c642ff1438bdeef97f542d9d9618662ff"
+  integrity sha512-4Wrj1hKCMhUpLP6xHyj+xhdGF7+n/RnAGNhzpgw27gl81YEI4gdR6/CELA0Vt0eib+y30l41AdGJxTsIwusfVQ==
   dependencies:
     vscode-languageserver-protocol "^3.17.5"
 
