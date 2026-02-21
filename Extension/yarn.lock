@@ -710,10 +710,10 @@
     minimist "^1.2.8"
     prompts "^2.4.2"
 
-"@vscode/extension-telemetry@^0.9.6":
-  version "0.9.8"
-  resolved "https://pkgs.dev.azure.com/azure-public/VisualCpp/_packaging/cpp_PublicPackages/npm/registry/@vscode/extension-telemetry/-/extension-telemetry-0.9.8.tgz#109a9db5e09d5b05f9403a3fef60d5963b668fc3"
-  integrity sha1-EJqdteCdWwX5QDo/72DVljtmj8M=
+"@vscode/extension-telemetry@^0.9.9":
+  version "0.9.9"
+  resolved "https://registry.yarnpkg.com/@vscode/extension-telemetry/-/extension-telemetry-0.9.9.tgz#58844e72ac7860eb0497898545c2c4f58096465e"
+  integrity sha512-WG/H+H/JRMPnpbXMufXgXlaeJwKszXfAanOERV/nkXBbYyNw0KR84JjUjSg+TgkzYEF/ttRoHTP6fFZWkXdoDQ==
   dependencies:
     "@microsoft/1ds-core-js" "^4.3.4"
     "@microsoft/1ds-post-js" "^4.3.4"
